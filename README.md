@@ -1,5 +1,7 @@
 # HOI4 macOS text fix
 
+English · [简体中文](README.zh-CN.md)
+
 A script that repairs Hearts of Iron IV mods whose text renders in the wrong
 position and at the wrong size on macOS, but looks correct on Windows.
 
